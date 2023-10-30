@@ -1,0 +1,3 @@
+/home/cjy/Desktop/make-test/Demo3/math/CMakeFiles/MathFunctions.dir
+/home/cjy/Desktop/make-test/Demo3/math/CMakeFiles/edit_cache.dir
+/home/cjy/Desktop/make-test/Demo3/math/CMakeFiles/rebuild_cache.dir
